@@ -1,0 +1,65 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
+
+
+
+body {  
+  background-color: #404040 !important;
+
+
+}
+.hero {
+  background: url('assets/trump2.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 48%;
+  background-size: cover;
+  background-position: right center ; 
+  background-attachment: scroll; 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  letter-spacing: 2px;
+}
+
+
+.frosty {
+  margin-top: 10%;
+  background:rgba(0,0,0, 0.5);
+  color: white;
+  font-family: 'Raleway';
+}
+
+.frosty h1 {
+  font-weight: 100;
+  font-size: 50px;
+}
+
+.booyah-box {  -webkit-box-shadow: 5px 5px 44px 0px rgba(0,0,0,0.7);
+  -moz-box-shadow: 5px 5px 44px 0px rgba(0,0,0,0.7);
+  box-shadow: 5px 5px 44px 0px rgba(0,0,0,0.7);
+  background: orange;
+  border: 1px solid #ccc;
+  border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
+  margin-top: 10%
+  margin-bottom: 3%;
+  margin-left, margin-right: 5%;
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 35px;
+  font-family: 'Raleway';
+  
+
+  
+}
+
+
+.clear {
+  clear: both;
+}
+
+.btn{
+  margin: 7px;
+  // border-radius: 55px;
+}
